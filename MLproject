@@ -1,8 +1,10 @@
 name: Proyecto de demostracion
 
-docker_env:
-    image:  jdvelasq/mlflow:example
-    build_context: .
+#jdvelasq
+
+# docker_env:
+#     image:  anfospinaca/mlflow:example
+#     build_context: .
 
 entry_points:
     elasticnet:
